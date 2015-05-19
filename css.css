@@ -1,0 +1,15 @@
+@font-face {
+	font-family: font;
+	src: url('HelveticaNeue-UltraLight.ttf');
+}
+html {
+	font-family:font;
+	background-color:black;
+	color:white;
+	cursor:crosshair;
+}
+
+p#red {
+	color:red;
+	text-decoration:underline;
+}
