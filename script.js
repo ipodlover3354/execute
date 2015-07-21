@@ -10,3 +10,6 @@ function reloadCommand(msg) {
 	console.log('/execute ' + e + ' ' + x + ' ' + y + ' ' + z + ' ' + cmd);
 	$( "div" ).html('/execute ' + e + ' ' + x + ' ' + y + ' ' + z + ' ' + cmd);
 }
+
+reloadCommand();
+
